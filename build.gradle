@@ -29,7 +29,7 @@ application {
 }
 
 
-def mainVerticleName = 'com.codehub6.MainVerticle'
+def mainVerticleName = 'com.codehub6.DeployVerticle'
 def watchForChange = 'src/**/*'
 def doOnChange = './gradlew classes'
 
